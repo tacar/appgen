@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+App	src/App.tsx	/^function App() {$/;"	f
+App	src/main.tsx	/^import App from '.\/App.tsx';$/;"	I
+Benefits	src/App.tsx	/^import Benefits from '.\/components\/Benefits';$/;"	I
+Benefits	src/components/Benefits.tsx	/^export default function Benefits() {$/;"	f
+Features	src/App.tsx	/^import Features from '.\/components\/Features';$/;"	I
+Features	src/components/Features.tsx	/^export default function Features() {$/;"	f
+Footer	src/App.tsx	/^import Footer from '.\/components\/Footer';$/;"	I
+Footer	src/components/Footer.tsx	/^export default function Footer() {$/;"	f
+Hero	src/App.tsx	/^import Hero from '.\/components\/Hero';$/;"	I
+Hero	src/components/Hero.tsx	/^export default function Hero() {$/;"	f
+Pricing	src/App.tsx	/^import Pricing from '.\/components\/Pricing';$/;"	I
+Pricing	src/components/Pricing.tsx	/^export default function Pricing() {$/;"	f
+React	src/App.tsx	/^import React from 'react';$/;"	I
+React	src/components/Benefits.tsx	/^import React from 'react';$/;"	I
+React	src/components/Features.tsx	/^import React from 'react';$/;"	I
+React	src/components/Footer.tsx	/^import React from 'react';$/;"	I
+React	src/components/Hero.tsx	/^import React from 'react';$/;"	I
+React	src/components/Pricing.tsx	/^import React from 'react';$/;"	I
+createRoot	src/main.tsx	/^createRoot(document.getElementById('root')!).render($/;"	m
+description	src/components/Features.tsx	/^      description: "同じ目標を持つ仲間と一緒に朝活。モチベーションを高め合います。"$/;"	m
+description	src/components/Features.tsx	/^      description: "毎朝のルーティンを確立し、充実した1日のスタートを。"$/;"	m
+description	src/components/Features.tsx	/^      description: "週次の振り返りと目標設定で、着実な成長をサポート。"$/;"	m
+exclude	vite.config.ts	/^    exclude: ['lucide-react'],$/;"	m
+icon	src/components/Features.tsx	/^      icon: <Coffee className="h-8 w-8 text-orange-500" \/>,$/;"	m
+icon	src/components/Features.tsx	/^      icon: <Target className="h-8 w-8 text-orange-500" \/>,$/;"	m
+icon	src/components/Features.tsx	/^      icon: <Users className="h-8 w-8 text-orange-500" \/>,$/;"	m
+optimizeDeps	vite.config.ts	/^  optimizeDeps: {$/;"	m
+plugins	vite.config.ts	/^  plugins: [react()],$/;"	m
+react	vite.config.ts	/^import react from '@vitejs\/plugin-react';$/;"	I
+return	src/App.tsx	/^  return ($/;"	m
+return	src/components/Benefits.tsx	/^  return ($/;"	m
+return	src/components/Features.tsx	/^  return ($/;"	m
+return	src/components/Footer.tsx	/^  return ($/;"	m
+return	src/components/Hero.tsx	/^  return ($/;"	m
+return	src/components/Pricing.tsx	/^  return ($/;"	m
+title	src/components/Features.tsx	/^      title: "仲間と一緒に成長",$/;"	m
+title	src/components/Features.tsx	/^      title: "朝の習慣化",$/;"	m
+title	src/components/Features.tsx	/^      title: "目標達成をサポート",$/;"	m
